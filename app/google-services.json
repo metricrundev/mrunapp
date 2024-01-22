@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318293464717",
+    "project_id": "metricrunfinal",
+    "storage_bucket": "metricrunfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318293464717:android:0ea9922281e7432787f4c4",
+        "android_client_info": {
+          "package_name": "com.metricrun.bdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318293464717-g780ocalr2h26bkqvdnokg4jq4p0laou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metricrun.bdrawer",
+            "certificate_hash": "9bacca4220aaabb8915e03b49fc8443c67106257"
+          }
+        },
+        {
+          "client_id": "318293464717-814csgfkan76up4v2mkljg1u3cg3fkms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7N85rK56RgUYm3wP8pBBZij4Jd72WSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318293464717-814csgfkan76up4v2mkljg1u3cg3fkms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

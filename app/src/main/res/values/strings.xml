@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bdrawer</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Metricas</string>
+    <string name="title_notifications">Perfil Usuario</string>
+    <string name="title_calibrate">Calibrar</string>
+    <string name="web_client_id">318293464717-814csgfkan76up4v2mkljg1u3cg3fkms.apps.googleusercontent.com</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
